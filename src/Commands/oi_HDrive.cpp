@@ -10,6 +10,7 @@
 
 
 #include "oi_HDrive.h"
+#include "Robot.h"
 
 oi_HDrive::oi_HDrive() {
 	// Use requires() here to declare subsystem dependencies
